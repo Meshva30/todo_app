@@ -1,16 +1,20 @@
-# todo_app
+# To-Do App with GetX
 
-A new Flutter project.
+A simple and efficient To-Do application built using Flutter and GetX for state management. This app allows users to add, update, and delete tasks with a smooth and interactive user interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add Tasks**: Users can add new tasks to their list.
+- **Update Tasks**: Modify existing tasks.
+- **Delete Tasks**: Remove tasks from the list.
+- **Task Completion**: Mark tasks as completed.
+- **Slidable UI**: Swipe to edit or delete tasks.
+### Photos
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0bb94c50-2959-4717-b6e5-12eef9c7ffc9" width=230>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Video
+https://github.com/user-attachments/assets/76ca9248-e258-4204-a531-08b9adb8cf98
