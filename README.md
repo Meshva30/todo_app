@@ -1,15 +1,14 @@
+# To-Do App with GetX
 
-# To-Do App with getx
-
-Efficient to-do app built with Flutter using GetX for state management. This app allows users to create, read, update, and delete tasks with ease. 
+A simple and efficient To-Do application built using Flutter and GetX for state management. This app allows users to add, update, and delete tasks with a smooth and interactive user interface.
 
 ## Features
 
-- **Create Tasks:** Add new tasks to stay organized.
-- **Read Tasks:** View all your tasks in one place.
-- **Update Tasks:** Edit existing tasks to keep them up-to-date.
-- **Delete Tasks:** Remove tasks that are no longer needed.
-
+- **Add Tasks**: Users can add new tasks to their list.
+- **Update Tasks**: Modify existing tasks.
+- **Delete Tasks**: Remove tasks from the list.
+- **Task Completion**: Mark tasks as completed.
+- **Slidable UI**: Swipe to edit or delete tasks.
 ### Photos
 
 <div align="center">
